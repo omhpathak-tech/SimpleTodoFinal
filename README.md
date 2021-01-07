@@ -41,7 +41,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app:
 
-The app was very simple to build, but you can always run into import problems and running the emulator on low-end apps can be annoying. 
+The app was very simple to build, but you can always run into import problems and running the emulator on low-end laptops can be annoying. 
 The Android Studio is very user-friendly and easy to use. It also gives the developer a lot of freedom to play around with the UI. 
 
 ## License
