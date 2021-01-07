@@ -4,7 +4,7 @@
 
 Submitted by: **Om Pathak**
 
-Time spent: **3.5** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## User Stories
 
