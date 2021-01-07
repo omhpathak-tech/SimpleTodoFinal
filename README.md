@@ -22,9 +22,12 @@ The following **additional** features can be implemented:
 
 * [ ] User can **create list of items for different categories
 * [ ] User can **add deadlines/due dates to each item
+* [ ] User can **make particular items/tasks high priority 
 * [ ] User can **add and then see progress for each item on the list
 * [ ] User can **connect this app with other apps for example: messages and email
 * [ ] User can **use this app as an widget on the home screen
+* [ ] User can **add passcode protection for some secret items/tasks
+* [ ] User can **add pictures to a group or a particular item/task
 * [ ] Improve the UI/UX of the app and make it more appealing to the user 
 ## Video Walkthrough
 
@@ -37,7 +40,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-The app was very simple to app, but you can always run into import problems and running the emulator. 
+The app was very simple to build, but you can always run into import problems and running the emulator on low-end apps can be annoying. 
+The Android Studio is very user-friendly and easy to use. It also gives the developer a lot of freedom to play around with the UI. 
 
 ## License
 
